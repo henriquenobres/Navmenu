@@ -1,0 +1,23 @@
+*{
+    margin: 0 auto;
+    padding: 0 auto;
+    box-sizing: border-box;
+}
+
+#nav-content{
+    background-color: indianred;
+}
+    #ul-content{
+        list-style: none;
+        display: flex;
+        width: 30%;
+}
+#li-content{
+    color: blue;
+    padding: 30px;
+}
+
+#li-content a{
+    color: blue;
+    text-decoration: none;
+}
